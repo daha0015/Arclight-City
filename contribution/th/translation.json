@@ -11131,7 +11131,7 @@
 		},
 		"heal": {
 			"eng": "Click here to assign healing items to quick slots.",
-			"trans": "กดตรงนี้เพื่อเซ็ตไอเทมฮีลเข้าช่องควิก"
+			"trans": "กดตรงนี้เพื่อเซ็ตไอเทมฮีลเข้าช่องลัด"
 		},
 		"leaveDungeon": {
 			"eng": "You can click here to leave the stronghold at any time.",
@@ -11167,7 +11167,7 @@
 		},
 		"mercenary3": {
 			"eng": "Click here to recruit 10 new mercenaries",
-			"trans": "กดตรงนี้เพื่อจ้างทหารรับจ้างใหม่ 10 นาย"
+			"trans": "กดตรงนี้เพื่อจ้างทหารรับจ้างใหม่ 10 คน"
 		},
 		"newsReaction": {
 			"eng": "React to news reports to receive Credits and gain points for your Corporation!",
@@ -11183,7 +11183,7 @@
 		},
 		"upgradeItem": {
 			"eng": "Click here to view your inventory.",
-			"trans": "เปิดดูของในตัว"
+			"trans": "กดตรงนี้เพื่อเปิดดูของในตัว"
 		},
 		"upgradeItemClickUpgrade": {
 			"eng": "Click \"Upgrade\" to level up this equipment.",
@@ -11203,7 +11203,7 @@
 		},
 		"useSkill": {
 			"eng": "Click here to command your mercenary to use skill.",
-			"trans": "กดเลย! สั่งให้ลูกน้องใช้สกิล"
+			"trans": "กดตรงนี้! สั่งให้ลูกน้องใช้สกิล"
 		}
 	},
 	"tutorialContainer": {
@@ -11234,7 +11234,7 @@
 			},
 			"createCharacter": {
 				"eng": "Create new character",
-				"trans": "สร้างตัวละคร"
+				"trans": "สร้างตัวละครใหม่"
 			},
 			"deleteCharacter": {
 				"eng": "Delete Character",
@@ -11242,11 +11242,11 @@
 			},
 			"location": {
 				"eng": "Arclight City - Character Database",
-				"trans": "นครราตรี - ไดเรกทอรีตัวละคร"
+				"trans": "เมืองอาร์คไลท์ - ข้อมูลตัวละคร"
 			},
 			"noCharacters": {
 				"eng": "You have no characters",
-				"trans": "ไม่มีตัวให้เล่น"
+				"trans": "ไม่มีตัวละครให้เล่น"
 			},
 			"playCharacter": {
 				"eng": "login",
@@ -11260,11 +11260,11 @@
 		"combat": {
 			"alreadyTriedEscape": {
 				"eng": "You already tried to escape in this turn!",
-				"trans": "หนีไปแล้ว! เทิร์นนี้ทำอะไรไม่ได้แล้ว"
+				"trans": "คุณได้ลองหลบหนีไปแล้ว! เทิร์นนี้ทำอะไรไม่ได้แล้ว"
 			},
 			"autoAttackLevel": {
 				"eng": "You need to be level ${level} to use auto combat",
-				"trans": "เลเวล ${level} ขึ้นไป ถึงใช้ Auto Combat ได้"
+				"trans": "เลเวล ${level} ขึ้นไปถึงใช้การต่อสู้อัตโนมัติได้"
 			},
 			"criticalHealth": {
 				"eng": "Critical Health Warning",
@@ -11272,13 +11272,13 @@
 			},
 			"escape": {
 				"eng": "escape",
-				"trans": "ออก"
+				"trans": "หลบหนี"
 			}
 		},
 		"dungeonUI": {
 			"backpack": {
 				"eng": "Backpack",
-				"trans": "กระเป๋าเก็บของ"
+				"trans": "กระเป๋า"
 			},
 			"quest": {
 				"eng": "Quest",
@@ -11307,18 +11307,18 @@
 			"equipmentTab": {
 				"autoEquip": {
 					"eng": "Auto Equip",
-					"trans": "ออโต้สวมใส่"
+					"trans": "สวมใส่ทันที"
 				},
 				"quickSlots": {
 					"title": {
 						"eng": "Quick Slots",
-						"trans": "ควิกสล็อต"
+						"trans": "ช่องลัด"
 					}
 				},
 				"unAssignQuickSlot": {
 					"title": {
 						"eng": "Unassign Quick Slot",
-						"trans": "เอาออกช่องด่วน"
+						"trans": "เอาออกช่องลัด"
 					}
 				}
 			},
@@ -11326,19 +11326,19 @@
 				"backpack": {
 					"title": {
 						"eng": "Backpack",
-						"trans": "เป้"
+						"trans": "กระเป๋า"
 					}
 				},
 				"equipments": {
 					"title": {
 						"eng": "Equipments",
-						"trans": "เกียร์"
+						"trans": "อุปกรณ์สวมใส่"
 					}
 				},
 				"inventory": {
 					"title": {
 						"eng": "Inventory",
-						"trans": "อินเวนทอรี่"
+						"trans": "ช่องเก็บของ"
 					}
 				},
 				"questItems": {
@@ -11368,7 +11368,7 @@
 			},
 			"blockedPlayer": {
 				"eng": "blocked",
-				"trans": "ถูกบล็อก"
+				"trans": "บล็อก"
 			},
 			"bugReport": {
 				"eng": "Bug Report",
@@ -11440,7 +11440,7 @@
 			},
 			"wiki": {
 				"eng": "tutorial",
-				"trans": "บทแนะนำ"
+				"trans": "บทฝึกสอน"
 			},
 			"workInProgress": {
 				"eng": "This page is still work in progress",
@@ -11523,7 +11523,7 @@
 	"upgradeBackpackPopup": {
 		"description": {
 			"eng": "Upgrade your backpack to increase the amount of items you can carry in strongholds.",
-			"trans": "เสริมแกร่งกระเป๋าของคุณ เพื่อให้ขนของในป้อมไซเบอร์ได้เยอะขึ้น"
+			"trans": "อัพเกรดกระเป๋าของคุณ เพื่อให้ขนของในป้อมไซเบอร์ได้เยอะขึ้น"
 		},
 		"eng": "Backpack upgrade",
 		"slots": {
@@ -11544,7 +11544,7 @@
 		},
 		"description": {
 			"eng": "You can also upgrade your inventory space by renting a apartment",
-			"trans": "คุณยังสามารถขยายคลังเก็บของได้ด้วยการเช่าห้องเช่า"
+			"trans": "คุณยังสามารถขยายคลังเก็บของได้ด้วยการเช่าห้องพัก"
 		},
 		"eng": "Inventory upgrade",
 		"trans": "อัพเกรดไอเทม",
@@ -11600,7 +11600,7 @@
 	"useItemButton": {
 		"use": {
 			"eng": "Use ${itemName}",
-			"trans": "กดใช้ ${itemName}"
+			"trans": "ใช้ ${itemName}"
 		},
 		"useModal": {
 			"button": {
@@ -11613,12 +11613,12 @@
 		"addItemButton": {
 			"title": {
 				"eng": "Add item to vault",
-				"trans": "เก็บไอเทมเข้าเซฟ"
+				"trans": "เก็บไอเทมเข้าตู้เซฟ"
 			}
 		},
 		"emptyVault": {
 			"eng": "Your vault is empty",
-			"trans": "เซฟเกลี้ยง"
+			"trans": "ตู้เซฟโล่ง"
 		},
 		"selectAddAmountModal": {
 			"title": {
@@ -11635,12 +11635,12 @@
 		"selectTakeAmountModal": {
 			"title": {
 				"eng": "Select amount to withdraw",
-				"trans": "เลือกจำนวนเงิน"
+				"trans": "เลือกจำนวนเงินที่ต้องการถอน"
 			}
 		},
 		"title": {
 			"eng": "Vault",
-			"trans": "เซฟ"
+			"trans": "ตู้เซฟ"
 		},
 		"vaultSlots": {
 			"eng": "Slots ${size}",
@@ -11707,7 +11707,7 @@
 			},
 			"subtitle": {
 				"eng": "Trade corporate futures in Arclight's shadow markets.",
-				"trans": "ซื้อขายสัญญาฟิวเจอร์ของบริษัทในตลาดมืดอาร์คลายต์"
+				"trans": "ซื้อขายสัญญาฟิวเจอร์ของบริษัทในตลาดมืดอาร์คไลท์"
 			}
 		},
 		"wiki": {
@@ -11743,7 +11743,7 @@
 		"bountyAdded": {
 			"announcement": {
 				"eng": "bounty of ${amount1} has been placed on ${targetName}!",
-				"trans": "\"${targetName} โดนหมายหัว ${amount1}!\""
+				"trans": "\"${targetName} มีค่าหัว ${amount1}!\""
 			}
 		},
 		"calibrated10": {
@@ -11785,19 +11785,19 @@
 		"calibrationFailed": {
 			"announcement": {
 				"eng": "${playerName} broke ${item} while calibrating",
-				"trans": "${playerName} แตก ${item} ตอนปรับเทียบ"
+				"trans": "${playerName} ได้ทำ ${item} แตกตอนปรับเทียบ"
 			}
 		},
 		"citizenArrest": {
 			"announcement": {
 				"eng": "${playerName} arrested ${targetName}!",
-				"trans": "${playerName} จัดการ ${targetName} แล้ว!"
+				"trans": "${playerName} ได้จับกุม ${targetName} แล้ว!"
 			}
 		},
 		"mugged": {
 			"announcement": {
 				"eng": "${playerName} mugged someone!",
-				"trans": "${playerName} ซิวใครบางคน!"
+				"trans": "${playerName} ปล้นใครบางคน!"
 			}
 		},
 		"muggedFailed": {
